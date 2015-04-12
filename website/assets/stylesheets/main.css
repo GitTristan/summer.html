@@ -1,0 +1,33 @@
+h1 {
+  color: violet;
+  font-size: 24px;
+}
+
+p {
+  color: purple;
+  font-size: 16px;
+}
+
+li {
+  color: purple;
+  font-size: 16px;
+}
+
+h3 {
+  color: violet;
+}
+
+strong {
+  color: violet;
+}
+
+section {
+  float: left;
+  margin: 0 1.5%;
+  width: 50%;
+}
+aside {
+  float: right;
+  margin: 0 1.5%;
+  width: 30%;
+}
