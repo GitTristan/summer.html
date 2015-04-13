@@ -33,7 +33,6 @@ aside {
 }
 
 
-
 #photoShowContainer{
   border: 5px solid #fff;
   margin: 30px auto 0px auto;
@@ -56,7 +55,7 @@ aside {
 #photoShow{
   height: 300px;
 	position: relative;
-  width: 1200px;
+  width: 4800px;
 }
 
 #photoShow img{
