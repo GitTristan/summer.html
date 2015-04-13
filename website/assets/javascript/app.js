@@ -8,4 +8,21 @@ function rotateImages(){
   $("#photoShow").animate({marginLeft: "-800px"}, 1000).delay(4000);
 
   $("#photoShow").animate({marginLeft: "0px"}, 1000).delay(4000);
+
+  $("#photoShow").animate({marginLeft: "0px"}, 1000).delay(4000);
+
+  $("#photoShow").animate({marginLeft: "0px"}, 1000).delay(4000);
+
+  $("#photoShow").animate({marginLeft: "0px"}, 1000).delay(4000);
+
+  $("#photoShow").animate({marginLeft: "0px"}, 1000).delay(4000);
+
+  $("#photoShow").animate({marginLeft: "0px"}, 1000).delay(4000);
+
+  $("#photoShow").animate({marginLeft: "0px"}, 1000).delay(4000);
+
+  $("#photoShow").animate({marginLeft: "0px"}, 1000).delay(4000);
+
+  $("#photoShow").animate({marginLeft: "0px"}, 1000).delay(4000);
+
 }
