@@ -32,6 +32,11 @@ aside {
   width: 30%;
 }
 
+i {
+  color: blue;
+}
+
+
 
 #photoShowContainer{
   border: 5px solid #fff;
